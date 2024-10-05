@@ -1,19 +1,65 @@
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vahidzhe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vahidzhe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vahidzhe) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vahidhsnzad) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vahidzhe) 
+## Hey there 👋, I'm [Vahid!](https://github.com/vahidzhe/)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vahidzhe&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vahidzhe&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vahidzhe&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+```yaml
+experience:
+    Lankaran State University:
+        Period: Sep 2022 - now
+        Location: Lankaran, Azerbaijan
+        Position: Engineer Programmer
+    Social and Agrarian-Technological College under LSU:
+        Period: Oct 2023 - Jan 2024
+        Location: Lankaran, Azerbaijan
+        Position: Part time, Information Technology Teacher
+    Bonpini:
+        Period: Apr 2023 - Aug 2023
+        Location: Baku, Azerbaijan
+        Position: Freelance - Backend Developer 
+    Lankaran State University:
+        Period: Feb 2021 - Jun 2021
+        Location: Lankaran, Azerbaijan
+        Position: Intern Backend Developer
+technologies:
+    languages: ["Python", "PHP", "Javascript"]
+        python:
+            frameworks: ["Django", "DRF", "Fastapi", "Flask"]
+            libraries: ["Celery","Scrapy","Selenium","BeautifulSoup","Requests"]
+            testing: ["Pytest", "Unittest"]
+        php: ["Laravel"]
+        js: ["Node Js","Express js"]
+    devOps: ["Docker", "CI/CD", "Nginx", "GitHub Actions"]
+    databases: ["PostgreSQL", "MySQL", "SQLite", "Firebase Realtime DB", "Redis", "RabbitMQ"]
+    misc: ["Asyncio", "REST", "WebSockets"]
+architecture: 
+    backend: ["microservices", "monolithic"]
+    databases: ["Relational", "NoSQL", "In-memory"]
+```
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vahidzhe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=vahidzhe&icon=0&color=0)](https://visitcount.itsvg.in)
+## Dev Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details>
+  <summary><b>⚡ Coding Stats</b></summary>
+
+  <br />
+  <!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
+</details>
+
+
+<details>
+  <summary><b> Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vahidzhe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahidzhe&exclude_repo=django_recaptcha_v3,django_blog_v1,django_smartedu_course,css_layout1,bonpini_backend_codeigniter&show_icons=true&hide_border=true&layout=compact&theme=dark&langs_count=6"/>
+</details>
+
+
+
+
+
