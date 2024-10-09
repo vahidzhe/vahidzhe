@@ -43,6 +43,58 @@ architecture:
   <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 263 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                224 commits         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+🌆 Daytime                565 commits         █████████████░░░░░░░░░░░░   50.95 % 
+🌃 Evening                218 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+🌙 Night                  102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Baku
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   18 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
+JavaScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+PHP                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+```
+
+
+
+
+ Last Updated on 09/10/2024 05:19:20 UTC
 <!--END_SECTION:waka-->
 </details>
 
