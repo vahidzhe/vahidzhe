@@ -45,17 +45,17 @@ architecture:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 263 Contributions in the Year 2024
+> 🏆 262 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -94,7 +94,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2024 05:19:20 UTC
+ Last Updated on 10/10/2024 00:36:18 UTC
 <!--END_SECTION:waka-->
 </details>
 
