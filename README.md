@@ -43,7 +43,7 @@ architecture:
   <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
 
@@ -51,9 +51,9 @@ architecture:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 266 Contributions in the Year 2024
+> 🏆 267 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 11 Public Repositories 
  > 
@@ -62,10 +62,10 @@ architecture:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                225 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-🌆 Daytime                574 commits         █████████████░░░░░░░░░░░░   51.25 % 
-🌃 Evening                219 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-🌙 Night                  102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+🌞 Morning                183 commits         █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+🌆 Daytime                426 commits         █████████████░░░░░░░░░░░░   50.30 % 
+🌃 Evening                165 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+🌙 Night                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 ```
 
 
@@ -101,7 +101,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2024 00:37:23 UTC
+ Last Updated on 16/10/2024 00:37:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
