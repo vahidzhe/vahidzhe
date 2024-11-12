@@ -112,7 +112,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vahidzhe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahidzhe&exclude_repo=django_recaptcha_v3,django_blog_v1,django_smartedu_course,css_layout1,bonpini_backend_codeigniter&show_icons=true&hide_border=true&layout=compact&theme=dark&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahidzhe&exclude_repo=django_recaptcha_v3,django_blog_v1,django_smartedu_course,css_layout1,task-managment,bonpini_backend_codeigniter&show_icons=true&hide_border=true&layout=compact&theme=dark&langs_count=6"/>
 </details>
 
 
