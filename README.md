@@ -2,7 +2,7 @@
 ## Hey there 👋, I'm [Vahid!](https://github.com/vahidzhe/)
 
 ```yaml
-experience:
+experiences:
     Lankaran State University:
         Period: Sep 2022 - now
         Location: Lankaran, Azerbaijan
