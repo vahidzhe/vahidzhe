@@ -51,8 +51,6 @@ architecture:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -97,7 +95,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2025 00:36:32 UTC
+ Last Updated on 26/01/2025 00:39:19 UTC
 <!--END_SECTION:waka-->
 </details>
 
