@@ -43,15 +43,13 @@ architecture:
   <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 21 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -98,7 +96,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2025 00:37:44 UTC
+ Last Updated on 31/01/2025 00:37:47 UTC
 <!--END_SECTION:waka-->
 </details>
 
