@@ -3,10 +3,14 @@
 
 ```yaml
 experiences:
+    FROMFOLIO:
+        Period: Jan 2024 - now
+        Location: Baku, Azerbaijan
+        Position: Freelance, Backend Developer
     Lankaran State University:
         Period: Sep 2022 - now
         Location: Lankaran, Azerbaijan
-        Position: Engineer Programmer
+        Position: Full time, Engineer Programmer
     Social and Agrarian-Technological College under LSU:
         Period: Oct 2023 - Jan 2024
         Location: Lankaran, Azerbaijan
@@ -28,11 +32,11 @@ technologies:
         php: ["Laravel"]
         js: ["Node Js","Express js"]
     devOps: ["Docker", "CI/CD", "Nginx", "GitHub Actions"]
-    databases: ["PostgreSQL", "MySQL", "SQLite", "Firebase Realtime DB", "Redis", "RabbitMQ"]
+    databases: ["PostgreSQL", "MySQL", "SQLite", "Firebase Realtime DB", "Redis"]
     misc: ["Asyncio", "REST", "WebSockets"]
 architecture: 
     backend: ["microservices", "monolithic"]
-    databases: ["Relational", "NoSQL", "In-memory"]
+    databases: ["Relational", "NoSQL"]
 ```
 
 
