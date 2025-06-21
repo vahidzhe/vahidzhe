@@ -49,7 +49,7 @@ architecture:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -61,6 +61,33 @@ architecture:
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                699 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+🌆 Daytime                2086 commits        ██████████████░░░░░░░░░░░   54.31 % 
+🌃 Evening                758 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+🌙 Night                  298 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Baku
+
+💬 Programming Languages: 
+Python                   1 hr 40 mins        ████████████░░░░░░░░░░░░░   47.48 % 
+PHP                      1 hr 37 mins        ████████████░░░░░░░░░░░░░   46.32 % 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Apache Config            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+
+🐱‍💻 Projects: 
+fromfolio-backend-v2     1 hr 46 mins        █████████████░░░░░░░░░░░░   50.49 % 
+lsu-library-production   1 hr 44 mins        ████████████░░░░░░░░░░░░░   49.51 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -74,7 +101,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2025 00:45:19 UTC
+ Last Updated on 21/06/2025 00:44:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
