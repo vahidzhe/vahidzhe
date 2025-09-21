@@ -47,6 +47,8 @@ architecture:
   <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%2031%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -74,7 +76,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 00:40:36 UTC
+ Last Updated on 21/09/2025 00:46:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
