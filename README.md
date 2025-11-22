@@ -6,7 +6,7 @@ experiences:
     FROMFOLIO:
         Period: Jan 2024 - now
         Location: Baku, Azerbaijan
-        Position: Freelance, Backend Developer
+        Position: Full time, Backend Developer
     Lankaran State University:
         Period: Sep 2022 - now
         Location: Lankaran, Azerbaijan
