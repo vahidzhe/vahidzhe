@@ -8,7 +8,7 @@ experiences:
         Location: Baku, Azerbaijan
         Position: Full time, Backend Developer
     Lankaran State University:
-        Period: Sep 2022 - now
+        Period: Sep 2022 - Nov 2025
         Location: Lankaran, Azerbaijan
         Position: Full time, Engineer Programmer
     Social and Agrarian-Technological College under LSU:
