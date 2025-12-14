@@ -27,7 +27,7 @@ technologies:
     languages: ["Python", "PHP", "Javascript"]
         python:
             frameworks: ["Django", "DRF", "Fastapi", "Flask"]
-            libraries: ["Celery","Scrapy","Selenium","BeautifulSoup","Requests"]
+            libraries: ["Celery","Scrapy","Playwright", "Selenium","BeautifulSoup","Requests"]
             testing: ["Pytest", "Unittest"]
         php: ["Laravel"]
         js: ["Node Js","Express js"]
