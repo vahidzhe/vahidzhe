@@ -47,7 +47,7 @@ architecture:
   <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -79,12 +79,14 @@ architecture:
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-Python                   10 hrs 4 mins       ███████████████████████░░   90.93 % 
-HTML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Python                   7 hrs 6 mins        █████████████████████░░░░   82.37 % 
+HTML                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     11 hrs 5 mins       █████████████████████████   100.00 % 
+fromfolio-backend-v2     8 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,7 +102,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2026 01:06:59 UTC
+ Last Updated on 20/03/2026 01:02:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
