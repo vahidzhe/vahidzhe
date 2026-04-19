@@ -47,7 +47,7 @@ architecture:
   <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C144%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C149%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -55,28 +55,55 @@ architecture:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 403 Contributions in the Year 2026
+> 🏆 407 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2318 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+🌆 Daytime                7477 commits        ████████████░░░░░░░░░░░░░   49.19 % 
+🌃 Evening                3703 commits        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+🌙 Night                  1702 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Baku
+
+💬 Programming Languages: 
+Python                   18 hrs 34 mins      █████████████████████░░░░   85.21 % 
+TOML                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Docker                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+
+🐱‍💻 Projects: 
+fromfolio-backend-v2     19 hrs 50 mins      ███████████████████████░░   90.95 % 
+sqladmin                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   27 repos            ███████████░░░░░░░░░░░░░░   45.00 % 
-PHP                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Python                   28 repos            ███████████░░░░░░░░░░░░░░   45.90 % 
+PHP                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 
 
 
- Last Updated on 18/04/2026 01:12:07 UTC
+ Last Updated on 19/04/2026 01:21:13 UTC
 <!--END_SECTION:waka-->
 </details>
 
