@@ -47,15 +47,13 @@ architecture:
   <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C216%20hrs%2058%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 625 Contributions in the Year 2026
+> 🏆 674 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -63,32 +61,6 @@ architecture:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3864 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-🌆 Daytime                14013 commits       ████████████░░░░░░░░░░░░░   49.10 % 
-🌃 Evening                7128 commits        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-🌙 Night                  3532 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Baku
-
-💬 Programming Languages: 
-Python                   16 hrs 48 mins      █████████████████████░░░░   84.45 % 
-HTML                     2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-
-🐱‍💻 Projects: 
-fromfolio-backend-v2     19 hrs 53 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -102,7 +74,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2026 01:55:31 UTC
+ Last Updated on 15/05/2026 01:55:31 UTC
 <!--END_SECTION:waka-->
 </details>
 
