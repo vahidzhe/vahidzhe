@@ -79,14 +79,11 @@ architecture:
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-Python                   6 hrs 23 mins       ███████████████████████░░   93.14 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Python                   4 hrs 14 mins       ████████████████████████░   96.15 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     6 hrs 52 mins       █████████████████████████   100.00 % 
+fromfolio-backend-v2     4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +99,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2026 01:35:37 UTC
+ Last Updated on 10/07/2026 01:32:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
